@@ -1,9 +1,9 @@
-package renbans.personapi.utills;
+package renbans.userapi.utills;
 
 
-import renbans.personapi.entity.Phone;
-import renbans.personapi.enums.PhoneType;
-import renbans.personapi.dto.request.PhoneDTO;
+import renbans.userapi.entity.Phone;
+import renbans.userapi.enums.PhoneType;
+import renbans.userapi.dto.request.PhoneDTO;
 
 
 

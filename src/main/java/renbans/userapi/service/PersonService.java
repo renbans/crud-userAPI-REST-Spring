@@ -1,13 +1,13 @@
 
-package renbans.personapi.service;
+package renbans.userapi.service;
 
 import lombok.AllArgsConstructor;
-import renbans.personapi.dto.request.PersonDTO;
-import renbans.personapi.dto.response.MessageResponseDTO;
-import renbans.personapi.entity.Person;
-import renbans.personapi.exception.PersonNotFoundException;
-import renbans.personapi.dto.mapper.PersonMapper;
-import renbans.personapi.repository.PersonRepository;
+import renbans.userapi.dto.request.PersonDTO;
+import renbans.userapi.dto.response.MessageResponseDTO;
+import renbans.userapi.entity.Person;
+import renbans.userapi.exception.PersonNotFoundException;
+import renbans.userapi.dto.mapper.PersonMapper;
+import renbans.userapi.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

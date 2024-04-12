@@ -1,10 +1,9 @@
-package renbans.personapi.entity;
+package renbans.userapi.entity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import renbans.personapi.enums.PhoneType;
-import renbans.personapi.entity.Person;
+import renbans.userapi.enums.PhoneType;
 
 import javax.persistence.*;
 

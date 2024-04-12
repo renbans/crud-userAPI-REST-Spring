@@ -1,4 +1,4 @@
-package renbans.personapi.exception;
+package renbans.userapi.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

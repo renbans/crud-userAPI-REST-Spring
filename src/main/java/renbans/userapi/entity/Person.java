@@ -1,4 +1,4 @@
-package renbans.personapi.entity;
+package renbans.userapi.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

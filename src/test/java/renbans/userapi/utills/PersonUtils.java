@@ -1,7 +1,7 @@
-package renbans.personapi.utills;
+package renbans.userapi.utills;
 
-import renbans.personapi.dto.request.PersonDTO;
-import renbans.personapi.entity.Person;
+import renbans.userapi.dto.request.PersonDTO;
+import renbans.userapi.entity.Person;
 
 import java.time.LocalDate;
 import java.util.Collections;

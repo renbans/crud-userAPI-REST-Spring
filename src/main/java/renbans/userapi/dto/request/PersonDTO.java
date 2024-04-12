@@ -1,4 +1,4 @@
-package renbans.personapi.dto.request;
+package renbans.userapi.dto.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

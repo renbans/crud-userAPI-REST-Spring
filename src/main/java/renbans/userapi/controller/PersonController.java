@@ -1,10 +1,10 @@
-package renbans.personapi.controller;
+package renbans.userapi.controller;
 
 import lombok.AllArgsConstructor;
-import renbans.personapi.dto.request.PersonDTO;
-import renbans.personapi.dto.response.MessageResponseDTO;
-import renbans.personapi.exception.PersonNotFoundException;
-import renbans.personapi.service.PersonService;
+import renbans.userapi.dto.request.PersonDTO;
+import renbans.userapi.dto.response.MessageResponseDTO;
+import renbans.userapi.exception.PersonNotFoundException;
+import renbans.userapi.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

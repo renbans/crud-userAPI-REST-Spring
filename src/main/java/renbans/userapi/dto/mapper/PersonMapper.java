@@ -1,7 +1,7 @@
-package renbans.personapi.dto.mapper;
+package renbans.userapi.dto.mapper;
 
-import renbans.personapi.dto.request.PersonDTO;
-import renbans.personapi.entity.Person;
+import renbans.userapi.dto.request.PersonDTO;
+import renbans.userapi.entity.Person;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.factory.Mappers;

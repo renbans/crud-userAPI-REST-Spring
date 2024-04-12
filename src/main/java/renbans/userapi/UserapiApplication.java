@@ -1,14 +1,14 @@
-package renbans.personapi;
+package renbans.userapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-public class PersonapiApplication {
+public class UserapiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PersonapiApplication.class, args);
+		SpringApplication.run(UserapiApplication.class, args);
 	}
 
 }

@@ -1,4 +1,4 @@
-package renbans.personapi.enums;
+package renbans.userapi.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

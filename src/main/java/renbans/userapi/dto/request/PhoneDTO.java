@@ -1,9 +1,9 @@
-package renbans.personapi.dto.request;
+package renbans.userapi.dto.request;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import renbans.personapi.enums.PhoneType;
+import renbans.userapi.enums.PhoneType;
 
 import javax.persistence.EnumType;
 import javax.persistence.Enumerated;

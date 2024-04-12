@@ -1,10 +1,10 @@
-package renbans.personapi;
+package renbans.userapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PersonapiApplicationTests {
+class UserapiApplicationTests {
 
 	@Test
 	void contextLoads() {

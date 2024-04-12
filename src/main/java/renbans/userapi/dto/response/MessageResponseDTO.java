@@ -1,4 +1,4 @@
-package renbans.personapi.dto.response;
+package renbans.userapi.dto.response;
 
 import lombok.Builder;
 import lombok.Data;
